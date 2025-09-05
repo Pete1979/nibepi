@@ -79,8 +79,3 @@ Node-RED är nu tillgängligt på NibePi's adress. http://nibepi:1880<br>
 Webinterfacet är tillgängligt på http://nibepi:1880/ui<br>
 Om det ovanstående länkar inte fungerar så använd IP adressen istället. T.ex http://192.168.0.100:1880
 
-Om du söker nytt elavtal får du gärna använda min affiliate länk och bli kund hos Tibber. <a href="https://invite.tibber.com/587354e8">https://invite.tibber.com/587354e8</a><br>
-
-Om du uppskattar mitt arbete så kan du bjuda mig på lite kaffe på nedanstående länk.
-
-https://www.buymeacoffee.com/0oKFXbQ
