@@ -85,7 +85,5 @@ Node-RED is now available at NibePi's hostname. http://nibepi:1880<br>
 The webinterface for NibePi (based on Node-red) is available at http://nibepi:1880/ui<br>
 If the above example doesn't work, please try with NibePis IP address instead of the hostname.
 
-Not it's all done!
-If you appreciate my work, you can sponsor me with a coffee
-
-https://www.buymeacoffee.com/0oKFXbQ
+Discord
+https://discord.gg/gSbkHfJXX4

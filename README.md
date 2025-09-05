@@ -79,3 +79,5 @@ Node-RED är nu tillgängligt på NibePi's adress. http://nibepi:1880<br>
 Webinterfacet är tillgängligt på http://nibepi:1880/ui<br>
 Om det ovanstående länkar inte fungerar så använd IP adressen istället. T.ex http://192.168.0.100:1880
 
+Discord
+https://discord.gg/gSbkHfJXX4
